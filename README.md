@@ -2,10 +2,10 @@
 
 <h3>BacklotCars · 2 yrs 8 mos <br> Kansas City, Missouri, United States</h3>
 
-Marketing LiaisonMarketing Liaison
-Full-timeFull-time
-Apr 2023 - Present · 8 mosApr 2023 - Present · 8 mos
-Responsible for managing Shortcut milestones, epics, and stories. Meet weekly with Marketing and Dev teams to review status of current stories, prioritize and groom new stories and manage backlog. Work with international development teams in Montevideo, Uruguay and Manila, Philippines. Assign myself to stories and write code as time allows, utilizing my full stack abilities.
+<h3>Marketing Liaison<br>
+Full-time<br>
+Apr 2023 - Present · 8 mos<br></h3>
+<h4>Responsible for managing Shortcut milestones, epics, and stories. Meet weekly with Marketing and Dev teams to review status of current stories, prioritize and groom new stories and manage backlog. Work with international development teams in Montevideo, Uruguay and Manila, Philippines. Assign myself to stories and write code as time allows, utilizing my full stack abilities.</h4>
 
 <h4>QA Engineer<br>
 Full-timeFull-time<br>
