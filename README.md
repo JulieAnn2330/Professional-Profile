@@ -18,26 +18,25 @@ Key Accomplishments:<br>
 <h3>Test Automation Liaison<br>
 Full-time<br>
 Nov 2022 - Aug 2023 · 10 mos</h3>
-<h4>Worked with QA team and engineering teams in Manila, Philippines and Montevideo, Uruguay, leading effort to write automated end-to-end testing for the entire codebase using cypress.io, appium and Testlodge. Presented accomplishments and progress in bi-weekly Sprint Showcases to stakeholders.<br>
-Key accomplishments:
+<h4>Worked with QA team and engineering teams in Manila, Philippines and Montevideo, Uruguay, leading effort to write automated end-to-end testing for the entire codebase using cypress.io, appium and Testlodge. Presented accomplishments and progress in bi-weekly Sprint Showcases to stakeholders.<br><br>
+Key accomplishments:<br>
 • 95% of web tests written in 7 months<br>
 • Began using automated tests for regression testing suites in June 2023<br>
 • Automated testing integrated into development workflow in August 2023Worked with QA team and engineering teams in Manila, Philippines and Montevideo, Uruguay, leading effort to write automated end-to-end testing for the entire codebase using cypress.io, appium and Testlodge. Presented accomplishments and progress in bi-weekly Sprint Showcases to stakeholders. Key accomplishments: • 95% of web tests written in 7 months • Began using automated tests for regression testing suites in June 2023 • Automated testing integrated into development workflow in August 2023</h4>
 <h5>Skills: Test Automation</h5>
 
-Product InternProduct Intern
-InternshipInternship
-Apr 2021 - Aug 2021 · 5 mosApr 2021 - Aug 2021 · 5 mos
-Worked with product team to complete summer project. Used Blazer to run SQL queries on top of a PostgreSQL database. Interviewed stakeholders to help guide the direction of and gain further insight into the requirements of the project. Worked with proprietary software, MixPanel, Clubhouse, Blazer, Domo, Loom and Google Suite to prepare project.
-Key Accomplishments:
-• Coordinated company's first-ever hackathon: Code:Velocity! Worked with a committee to set ground rules, encourage team formation and collaboration and secure executive-level judges for contest. Event lasted over three days in August 2021 and included three departments comprising 60 people.
+<h3>Product Intern<br>
+Internship<br>
+Apr 2021 - Aug 2021 · 5 mos</h3>
+<h4>Worked with product team to complete summer project. Used Blazer to run SQL queries on top of a PostgreSQL database. Interviewed stakeholders to help guide the direction of and gain further insight into the requirements of the project. Worked with proprietary software, MixPanel, Clubhouse, Blazer, Domo, Loom and Google Suite to prepare project.<br><br>
+Key Accomplishments:<br>
+• Coordinated company's first-ever hackathon: Code:Velocity! Worked with a committee to set ground rules, encourage team formation and collaboration and secure executive-level judges for contest. Event lasted over three days in August 2021 and included three departments comprising 60 people.</h4>
 
 
-Student in Full Stack Web Development BootCampStudent in Full Stack Web Development BootCamp
-KU Boot CampsKU Boot Camps
-Jun 2020 - Nov 2020 · 6 mosJun 2020 - Nov 2020 · 6 mos
-Overland Park, Kansas, United StatesOverland Park, Kansas, United States
-Completed intensive 6-month boot camp through the University of Kansas. Gained hands-on coding experience through class activities, weekly homework and three group projects. Learned a variety of technologies, tools and languages that prepared me for real-world experiences. 
-Key Accomplishments:
-• Finished course with 4.0 GPA.
-• Successfully completed three group projects, all with grades of A.
+<h3>Student in Full Stack Web Development BootCamp • KU Boot Camps<br>
+Jun 2020 - Nov 2020 · 6 mos<br>
+Overland Park, Kansas, United States</h3>
+<h4>Completed intensive 6-month boot camp through the University of Kansas. Gained hands-on coding experience through class activities, weekly homework and three group projects. Learned a variety of technologies, tools and languages that prepared me for real-world experiences.<br><br>
+Key Accomplishments:<br>
+• Finished course with 4.0 GPA.<br>
+• Successfully completed three group projects, all with grades of A.</h4>
