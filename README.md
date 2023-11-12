@@ -1,6 +1,6 @@
 # Professional Profile
 
-<h3>BacklotCars · 2 yrs 8 mos <br> Kansas City, Missouri, United States</h3>
+<h2>BacklotCars · 2 yrs 8 mos <br> Kansas City, Missouri, United States</h2>
 
 <h3>Marketing Liaison<br>
 Full-time<br>
